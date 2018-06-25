@@ -1,0 +1,33 @@
+ @charset "utf-8";
+
+
+.logindesa{
+    width: 100%;
+    padding-top: 60px;
+}
+
+.imglogo {
+    text-align: center;
+}
+
+.inp1 {
+    width: 60%;
+    padding-top: 50px;
+    margin: 0 auto;
+}
+
+.inp2 {
+    width: 60%;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+.ayu {
+    padding-top: 30px;
+    padding-left: 78px;
+}
+
+.kotira {
+    padding-top: 200px;
+    padding-left: 240px;
+}
